@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+temp_exec.py
+
+# Hygiene rules (added during migration)
+.gitpulse/
+.vercel
+.env
+.env.local
+.env.*.local
+AGENTS.md
+GEMINI.md
+CLAUDE.md
+.cursorrules
+AI_SHARED_MEMORY.md
+__pycache__/
+*.py[cod]
